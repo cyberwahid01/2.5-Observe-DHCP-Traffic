@@ -3,7 +3,7 @@
 </p>
 
 <h1>Microsoft Azure Compute and Networking 🪟 - Observe DHCP (Dynamic Host Configuration Protocol) Traffic</h1>
-Using the DHCP Protocol, I release and then renew the IP Address of the Windows 10 Virtual Machine. <br />
+Using the DHCP Protocol, I release and then renew the IP Address of the Windows 10 Virtual Machine. <br /> (Link Back to Main Project Contents Page is at the Bottom of this Repo)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -59,3 +59,5 @@ The device requests the offered IP, confirming its acceptance of the configurati
 The DHCP server acknowledges the request and assigns the IP address to the device, completing the DHCP process.
 
 This sequence shows the typical four-step DORA process: Discover, Offer, Request, Acknowledge, with an additional Release step at the start.
+
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
